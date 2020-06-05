@@ -5,7 +5,6 @@ main {
   position:absolute;
   top:190px;
   width:400px;
-  background:turquoise;
   margin-left:220px;
   margin-right:220px;
 }
@@ -27,7 +26,7 @@ h2,h1, blockquote {
 }
 blockquote {
   font-size:27px;
-  background:#222222;
+  background:turquoise;
   color:white;
   padding:20px;
   margin-bottom:0;
