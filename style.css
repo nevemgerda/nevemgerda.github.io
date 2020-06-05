@@ -5,6 +5,7 @@ main {
   position:absolute;
   top:190px;
   width:400px;
+  background:turquoise;
   margin-left:220px;
   margin-right:220px;
 }
